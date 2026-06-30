@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.20">
+	<ConfigVersions>
+		<Metadata name="Catalog.Контакты" id="2d924a8e-0a6e-4618-8eba-6c7378ad7152" configVersion="8b22458f80a59e44945e83d84e9674b300000000">
+			<Metadata name="Catalog.Контакты.Attribute.Телефон" id="be2bb17a-285e-4627-a453-a85149680d82"/>
+		</Metadata>
+		<Metadata name="Configuration.ЗаписнаяКнижка" id="af04bea5-4acf-4a73-8d1c-922f8fed9bfc" configVersion="81ea8f6c7da0de49b5c5c465518eab0200000000"/>
+		<Metadata name="Language.Русский" id="23b86aab-b97b-4fc3-9b0a-4b2c55dc606c" configVersion="25e998bc16023a4abb269591e801e27a00000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
